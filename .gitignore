@@ -1,0 +1,13 @@
+.DS_Store
+.mxproject
+Diagnostics/
+build/
+build-*/
+firmware/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.zip
